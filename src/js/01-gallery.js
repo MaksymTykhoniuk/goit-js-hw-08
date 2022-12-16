@@ -29,9 +29,3 @@ const lightbox = new SimpleLightbox('.gallery a', {
   captionPosition: 'bootom',
   captionDelay: 250,
 });
-
-// lightbox.on("show.simplelightbox", function () {
-//   console.log("test console");
-// });
-
-console.log(galleryItems);
